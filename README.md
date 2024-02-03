@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alvin2499
-- 👀 I’m interested in Airdrpp
+- 👀 I’m interested in Airdrop
 - 🌱 I’m currently learning to hunt
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me on my profile send me dm
